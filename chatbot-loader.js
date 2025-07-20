@@ -42,7 +42,7 @@
   closeButton.id = 'chatbot-close';
   Object.assign(closeButton.style, {
     position: 'fixed',
-    bottom: '420px',
+    bottom: '395px',
     right: '35px',
     fontSize: '15px',
     width: '24px',
